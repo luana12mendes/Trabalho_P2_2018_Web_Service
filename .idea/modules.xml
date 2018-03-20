@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\luana\Downloads\WebService_19-03-master\WebService_19-03-master\Projetos.iml" filepath="C:\Users\luana\Downloads\WebService_19-03-master\WebService_19-03-master\Projetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho_P2_2018_oficinaWeb_Service.iml" filepath="$PROJECT_DIR$/Trabalho_P2_2018_oficinaWeb_Service.iml" />
+      <module fileurl="file://C:\Users\luana\Downloads\WebService_19-03-master\Trabalho_P2_2018_oficinaWeb_Service\WebService_19-03-master.iml" filepath="C:\Users\luana\Downloads\WebService_19-03-master\Trabalho_P2_2018_oficinaWeb_Service\WebService_19-03-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
